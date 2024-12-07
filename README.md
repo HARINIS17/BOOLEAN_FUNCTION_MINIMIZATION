@@ -55,7 +55,7 @@ Truth table for f2:
 
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by:HARINI S
+Developed by: HARINI S
 
 RegisterNumber:24900110
 
